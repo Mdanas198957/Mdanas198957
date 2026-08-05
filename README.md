@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Mdanas198957/Mdanas198957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's how I work!
 
-Here are some ideas to get you started:
+-> 🔭 I’m currently working on Java and Problem Solving through DSA
+-> 🌱 I’m currently learning about Maximising the Impact I create in Tech Field
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> 📫 How to reach me: mdanas198957@gmail.com
+  
+- ⚡ Fun fact:
+    - I like to Research
+    - I work independently and Provide Assistance in Teamwork
+  Hobbies: Anime, Code, Sleep😴 
