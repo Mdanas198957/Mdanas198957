@@ -1,4 +1,17 @@
+
 <div align="center">
+ <img src = "">
+ <!--Mario-->
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  width="600"/>
+    </td>
+    <td valign="top">
+      <h3> Time for some PRODUCTIVITY !! </h3>
+    </td>
+  </tr>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:7b2d8e,75:00b4d8,100:0d1117&height=220&section=header&text=Mohammed%20Anas%20Abrar&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=%E2%96%88%E2%96%88%20Researcher%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder%20%E2%96%88%E2%96%88&descSize=16&descColor=7b2d8e&descAlignY=55&animation=fadeIn" width="100%"/>
 Hi 👋, I'm Mohammed Anas
 
@@ -12,23 +25,32 @@ Hi 👋, I'm Mohammed Anas
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 * 🎓 Final-Year Computer Science & Engineering Student
 * ☕ Passionate about Java and Software Development
 * 🧩 Solving Data Structures & Algorithms problems
-* ☁️ Exploring Cloud Computing and AI
+* ☁️ Exploring AI and various aspects of Problems
 * 🚀 Building projects to strengthen my development skills
 * 🌱 Always learning something new
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,nodejs,git,github,vscode,pycharm,vercel,supabase,mysql" />
-
+ <img src="https://camo.githubusercontent.com/4accd2f20a00fd4364e3456b3525b9af98b827afb9d4ec9f62cce6732552fa06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" alt="java" width="100"/>
+ <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" alt="mysql" width="100"/>  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
+<img src="https://skillicons.dev/icons?i=vercel,supabase" />
 </p>
 
 ---
@@ -41,7 +63,7 @@ Hi 👋, I'm Mohammed Anas
 | 🌐 Personal Portfolio            | Responsive portfolio showcasing my projects        |
 | 📱 Facebook UI Clone             | Built for practicing Git & GitHub workflows        |
 | 🌱 InCity Event Locator          | Built to Ease the Search or an Event Nearby        |
-| 📚 EduClarity                    |
+| 📚 EduClarity                    | A project developed for the ease of students       |
 ---
 
 ## 📊 GitHub Analytics
